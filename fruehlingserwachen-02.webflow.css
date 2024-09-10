@@ -72,7 +72,7 @@ a {
 
 .start2.center {
   background-color: #cf0063;
-  background-image: linear-gradient(#0003, #0003), url('../images/beach_003.png');
+  background-image: linear-gradient(#0003, #0003), url('beach_003-p-2000.png');
   background-position: 0 0, 0 0;
   background-size: auto, auto;
   justify-content: center;
@@ -267,7 +267,7 @@ a {
 
 .body {
   background-color: #0000;
-  background-image: url('../images/beach_003.png');
+  background-image: url('beach_003.png') no-repeat center center fixed;
   background-size: cover;
   background-attachment: fixed;
   margin-top: 0;
